@@ -1,0 +1,3 @@
+<?php
+
+header('Location: https://library.president.ac.id/kurniawan-property/jp1131/', true, 301);
